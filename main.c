@@ -4,6 +4,7 @@
  *
  *01) Elaborar um algoritmo para ler um vetor com 10 números inteiros maiores do que 1, calcule e mostre  os  números  primos  e  suas  respectivas  posições no  vetor  (contadas  a  partir  do  número  zero).  Se  não  existir nenhum número primo no vetor, deve-se imprimir uma mensagem no final. Também deve ser feita  a proteção de dados no código, isto é, só devem ser aceitos números inteiros maiores do que 1 na entrada  de dados.
  *
+ *
  *int main () {
         int vet[10];
         int cont=0;
