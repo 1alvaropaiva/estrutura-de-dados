@@ -23,5 +23,5 @@ Lista de exercícios sobre vetores e matrizes, matérias ministradas no último 
 
 ## Linguagens Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,c)](https://skillicons.dev)
 
