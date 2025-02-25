@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lista01.dir/main.c.o CMakeFiles/lista01.dir/recursive.c.o -o lista01

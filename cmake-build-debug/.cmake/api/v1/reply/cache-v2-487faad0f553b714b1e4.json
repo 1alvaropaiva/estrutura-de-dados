@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/alvaro/github/lista01/cmake-build-debug"
+			"value" : "/home/alvaro/github/estrutura-de-dados/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alvaro/github/lista01/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -427,7 +427,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Ninja"
+			"value" : "Unix Makefiles"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/alvaro/github/lista01"
+			"value" : "/home/alvaro/github/estrutura-de-dados"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -522,12 +522,16 @@
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Path to a program."
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "/opt/clion-2024.3.3/bin/ninja/linux/x64/ninja"
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gmake"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1035,7 +1039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alvaro/github/lista01/cmake-build-debug"
+			"value" : "/home/alvaro/github/estrutura-de-dados/cmake-build-debug"
 		},
 		{
 			"name" : "lista01_IS_TOP_LEVEL",
@@ -1059,7 +1063,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/alvaro/github/lista01"
+			"value" : "/home/alvaro/github/estrutura-de-dados"
 		}
 	],
 	"kind" : "cache",
