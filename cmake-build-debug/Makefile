@@ -129,6 +129,54 @@ lista01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/build
 .PHONY : lista01/fast
 
+files/recursive.o: files/recursive.c.o
+.PHONY : files/recursive.o
+
+# target to build an object file
+files/recursive.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/recursive.c.o
+.PHONY : files/recursive.c.o
+
+files/recursive.i: files/recursive.c.i
+.PHONY : files/recursive.i
+
+# target to preprocess a source file
+files/recursive.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/recursive.c.i
+.PHONY : files/recursive.c.i
+
+files/recursive.s: files/recursive.c.s
+.PHONY : files/recursive.s
+
+# target to generate assembly for a file
+files/recursive.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/recursive.c.s
+.PHONY : files/recursive.c.s
+
+files/struct.o: files/struct.c.o
+.PHONY : files/struct.o
+
+# target to build an object file
+files/struct.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/struct.c.o
+.PHONY : files/struct.c.o
+
+files/struct.i: files/struct.c.i
+.PHONY : files/struct.i
+
+# target to preprocess a source file
+files/struct.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/struct.c.i
+.PHONY : files/struct.c.i
+
+files/struct.s: files/struct.c.s
+.PHONY : files/struct.s
+
+# target to generate assembly for a file
+files/struct.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/struct.c.s
+.PHONY : files/struct.c.s
+
 main.o: main.c.o
 .PHONY : main.o
 
@@ -153,30 +201,6 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/main.c.s
 .PHONY : main.c.s
 
-recursive.o: recursive.c.o
-.PHONY : recursive.o
-
-# target to build an object file
-recursive.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/recursive.c.o
-.PHONY : recursive.c.o
-
-recursive.i: recursive.c.i
-.PHONY : recursive.i
-
-# target to preprocess a source file
-recursive.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/recursive.c.i
-.PHONY : recursive.c.i
-
-recursive.s: recursive.c.s
-.PHONY : recursive.s
-
-# target to generate assembly for a file
-recursive.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/recursive.c.s
-.PHONY : recursive.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +210,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... lista01"
+	@echo "... files/recursive.o"
+	@echo "... files/recursive.i"
+	@echo "... files/recursive.s"
+	@echo "... files/struct.o"
+	@echo "... files/struct.i"
+	@echo "... files/struct.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... recursive.o"
-	@echo "... recursive.i"
-	@echo "... recursive.s"
 .PHONY : help
 
 

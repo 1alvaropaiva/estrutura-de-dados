@@ -1,16 +1,21 @@
 
-# Estrutura de Dados
+# 🛠 Estrutura de Dados
 
 Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exercícios resolvidos e suas devidas questões.
 
 ## 🛠 Aulas
-Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período. 
+
+- Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período. 
 ```bash
   Lista 01 - lista1.c
 ```
+- 
+
 
     
 ## Organização do Repositório
+
+- O arquivo main.c é onde serão testados os códigos.
 
 - Cada lista, um arquivo novo.
 

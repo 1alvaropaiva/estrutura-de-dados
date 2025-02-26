@@ -1,6 +1,4 @@
-//
-// Created by alvaro on 25/02/25.
-//
+
 /*
 
 -> função recursiva sempre causa stack overflow quando o número é maior que 15
@@ -24,8 +22,5 @@ int main () {
 
     return 0;
 }
-
-
-
 
 */

@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/lista01.dir/files/recursive.c.o"
+  "CMakeFiles/lista01.dir/files/recursive.c.o.d"
+  "CMakeFiles/lista01.dir/files/struct.c.o"
+  "CMakeFiles/lista01.dir/files/struct.c.o.d"
   "CMakeFiles/lista01.dir/main.c.o"
   "CMakeFiles/lista01.dir/main.c.o.d"
-  "CMakeFiles/lista01.dir/recursive.c.o"
-  "CMakeFiles/lista01.dir/recursive.c.o.d"
   "lista01"
   "lista01.pdb"
 )
