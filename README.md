@@ -7,10 +7,16 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
 
 - Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período. 
 ```bash
-  Lista 01 - lista1.c
+  Files - lista1.c
 ```
-- 
-
+- Inicialização e preenchimento de structs (declaração, entradas e saídas).
+```bash
+  Files - struct.c
+```
+- Funções recursivas
+```bash
+  Files - recursive.c
+```
 
     
 ## Organização do Repositório
@@ -25,6 +31,9 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
   git clone https://github.com/1alvaropaiva/estrutura-de-dados.git
 ```
 
+## 🛠 Links e materiais importantes
+
+Playlist Struct - https://www.youtube.com/playlist?list=PLqJK4Oyr5WShSqejWzL5oMuujnHFeHhSC
 
 ## Linguagens Utilizadas
 
