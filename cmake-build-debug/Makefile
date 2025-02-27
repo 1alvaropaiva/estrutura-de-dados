@@ -129,6 +129,30 @@ lista01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/build
 .PHONY : lista01/fast
 
+files/exerciciostruct.o: files/exerciciostruct.c.o
+.PHONY : files/exerciciostruct.o
+
+# target to build an object file
+files/exerciciostruct.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/exerciciostruct.c.o
+.PHONY : files/exerciciostruct.c.o
+
+files/exerciciostruct.i: files/exerciciostruct.c.i
+.PHONY : files/exerciciostruct.i
+
+# target to preprocess a source file
+files/exerciciostruct.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/exerciciostruct.c.i
+.PHONY : files/exerciciostruct.c.i
+
+files/exerciciostruct.s: files/exerciciostruct.c.s
+.PHONY : files/exerciciostruct.s
+
+# target to generate assembly for a file
+files/exerciciostruct.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/exerciciostruct.c.s
+.PHONY : files/exerciciostruct.c.s
+
 files/recursive.o: files/recursive.c.o
 .PHONY : files/recursive.o
 
@@ -210,6 +234,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... lista01"
+	@echo "... files/exerciciostruct.o"
+	@echo "... files/exerciciostruct.i"
+	@echo "... files/exerciciostruct.s"
 	@echo "... files/recursive.o"
 	@echo "... files/recursive.i"
 	@echo "... files/recursive.s"

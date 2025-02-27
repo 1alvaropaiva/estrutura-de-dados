@@ -1,5 +1,7 @@
+#include <stdlib.h>
 #include <stdio.h>
 
-void main () {
-    printf("01");
+int main() {
+    printf("x");
+    return 0;
 }

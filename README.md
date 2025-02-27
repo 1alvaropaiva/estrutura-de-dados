@@ -1,14 +1,6 @@
-
 # 🛠 Estrutura de Dados
-
 Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exercícios resolvidos e suas devidas questões.
-
-## 🛠 Aulas
-
-- Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período. 
-```bash
-  Files - lista1.c
-```
+## 🛠 Aulas (arquivos)
 - Inicialização e preenchimento de structs (declaração, entradas e saídas).
 ```bash
   Files - struct.c
@@ -17,9 +9,16 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
 ```bash
   Files - recursive.c
 ```
-
-    
-## Organização do Repositório
+## 🛠 Arquivos de Exercícios
+- Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período.
+```bash
+  Files - lista1.c
+``` 
+- Exercício sobre cadastro de alunos, realizado com o máximo de funções da linguagem já abordadas
+```bash
+  Files - exerciciostruct.c
+```
+## 🛠 Organização do Repositório
 
 - O arquivo main.c é onde serão testados os códigos.
 
@@ -35,7 +34,7 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
 
 Playlist Struct - https://www.youtube.com/playlist?list=PLqJK4Oyr5WShSqejWzL5oMuujnHFeHhSC
 
-## Linguagens Utilizadas
+## 🛠 Linguagens Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,,,,,,c)](https://skillicons.dev)
 

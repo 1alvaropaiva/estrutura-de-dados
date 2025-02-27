@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/lista01.dir/files/exerciciostruct.c.o"
+  "CMakeFiles/lista01.dir/files/exerciciostruct.c.o.d"
   "CMakeFiles/lista01.dir/files/recursive.c.o"
   "CMakeFiles/lista01.dir/files/recursive.c.o.d"
   "CMakeFiles/lista01.dir/files/struct.c.o"
