@@ -18,11 +18,17 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
 ```bash
   Files - exerciciostruct.c
 ```
+- Lista de exercícios UFU
+```bash
+  Files - listaNet.c
+```
 ## 🛠 Organização do Repositório
 
 - O arquivo main.c é onde serão testados os códigos.
 
 - Cada lista, um arquivo novo.
+
+- PDFs de listas, quando disponiveis.
 
 - Para rodar localmente os exercícios realizado, clone o repositório e abra a pasta com a ide de sua preferência.
 
