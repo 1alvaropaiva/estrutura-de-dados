@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/lista01.dir/main.c.o CMakeFiles/lista01.dir/files/recursive.c.o CMakeFiles/lista01.dir/files/struct.c.o CMakeFiles/lista01.dir/files/exerciciostruct.c.o -o lista01
+/usr/bin/cc -g CMakeFiles/lista01.dir/main.c.o CMakeFiles/lista01.dir/files/recursive.c.o CMakeFiles/lista01.dir/files/struct.c.o CMakeFiles/lista01.dir/files/exerciciostruct.c.o CMakeFiles/lista01.dir/files/listaNet.c.o -o lista01

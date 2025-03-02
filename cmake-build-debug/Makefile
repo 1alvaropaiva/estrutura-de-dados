@@ -153,6 +153,30 @@ files/exerciciostruct.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/exerciciostruct.c.s
 .PHONY : files/exerciciostruct.c.s
 
+files/listaNet.o: files/listaNet.c.o
+.PHONY : files/listaNet.o
+
+# target to build an object file
+files/listaNet.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/listaNet.c.o
+.PHONY : files/listaNet.c.o
+
+files/listaNet.i: files/listaNet.c.i
+.PHONY : files/listaNet.i
+
+# target to preprocess a source file
+files/listaNet.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/listaNet.c.i
+.PHONY : files/listaNet.c.i
+
+files/listaNet.s: files/listaNet.c.s
+.PHONY : files/listaNet.s
+
+# target to generate assembly for a file
+files/listaNet.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/listaNet.c.s
+.PHONY : files/listaNet.c.s
+
 files/recursive.o: files/recursive.c.o
 .PHONY : files/recursive.o
 
@@ -237,6 +261,9 @@ help:
 	@echo "... files/exerciciostruct.o"
 	@echo "... files/exerciciostruct.i"
 	@echo "... files/exerciciostruct.s"
+	@echo "... files/listaNet.o"
+	@echo "... files/listaNet.i"
+	@echo "... files/listaNet.s"
 	@echo "... files/recursive.o"
 	@echo "... files/recursive.i"
 	@echo "... files/recursive.s"

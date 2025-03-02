@@ -7,4 +7,5 @@ add_executable(lista01 main.c
         files/recursive.c
         files/struct.c
         files/exerciciostruct.c
+        files/listaNet.c
 )
