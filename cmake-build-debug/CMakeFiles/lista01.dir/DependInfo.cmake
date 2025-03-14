@@ -8,10 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/alvaro/github/estrutura-de-dados/files/exerciciostruct.c" "CMakeFiles/lista01.dir/files/exerciciostruct.c.o" "gcc" "CMakeFiles/lista01.dir/files/exerciciostruct.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/listaNet.c" "CMakeFiles/lista01.dir/files/listaNet.c.o" "gcc" "CMakeFiles/lista01.dir/files/listaNet.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/recursive.c" "CMakeFiles/lista01.dir/files/recursive.c.o" "gcc" "CMakeFiles/lista01.dir/files/recursive.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/struct.c" "CMakeFiles/lista01.dir/files/struct.c.o" "gcc" "CMakeFiles/lista01.dir/files/struct.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/Estacionamento.c" "CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c" "CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c" "CMakeFiles/lista01.dir/files/pratica/listaNet.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/listaNet.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c" "CMakeFiles/lista01.dir/files/pratica/recursive.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/recursive.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/struct.c" "CMakeFiles/lista01.dir/files/pratica/struct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/struct.c.o.d"
   "/home/alvaro/github/estrutura-de-dados/main.c" "CMakeFiles/lista01.dir/main.c.o" "gcc" "CMakeFiles/lista01.dir/main.c.o.d"
   )
 
