@@ -3,24 +3,28 @@ Repositório sobre minhas aulas de Estrutura de Dados nesse semestre, com exerc�
 ## 🛠 Aulas (arquivos)
 - Inicialização e preenchimento de structs (declaração, entradas e saídas).
 ```bash
-  Files - struct.c
+  Files - Struct.c
 ```
 - Funções recursivas
 ```bash
-  Files - recursive.c
+  Files - Recursive.c
 ```
 ## 🛠 Arquivos de Exercícios
 - Lista de exercícios sobre vetores e matrizes, matérias ministradas no último período.
 ```bash
-  Files - lista1.c
+  Files - Lista1.c
 ``` 
 - Exercício sobre cadastro de alunos, realizado com o máximo de funções da linguagem já abordadas
 ```bash
-  Files - exerciciostruct.c
+  Files - ExercicioStruct.c
 ```
 - Lista de exercícios UFU
 ```bash
-  Files - listaNet.c
+  Files - ListaNet.c
+```
+- Estacionamento
+```bash
+  Files - Estacionamento.c
 ```
 ## 🛠 Organização do Repositório
 
