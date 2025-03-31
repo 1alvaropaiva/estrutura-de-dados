@@ -153,101 +153,149 @@ files/pratica/Estacionamento.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.s
 .PHONY : files/pratica/Estacionamento.c.s
 
-files/pratica/exerciciostruct.o: files/pratica/exerciciostruct.c.o
-.PHONY : files/pratica/exerciciostruct.o
+files/pratica/ExercicioStruct.o: files/pratica/ExercicioStruct.c.o
+.PHONY : files/pratica/ExercicioStruct.o
 
 # target to build an object file
-files/pratica/exerciciostruct.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o
-.PHONY : files/pratica/exerciciostruct.c.o
+files/pratica/ExercicioStruct.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o
+.PHONY : files/pratica/ExercicioStruct.c.o
 
-files/pratica/exerciciostruct.i: files/pratica/exerciciostruct.c.i
-.PHONY : files/pratica/exerciciostruct.i
+files/pratica/ExercicioStruct.i: files/pratica/ExercicioStruct.c.i
+.PHONY : files/pratica/ExercicioStruct.i
 
 # target to preprocess a source file
-files/pratica/exerciciostruct.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.i
-.PHONY : files/pratica/exerciciostruct.c.i
+files/pratica/ExercicioStruct.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.i
+.PHONY : files/pratica/ExercicioStruct.c.i
 
-files/pratica/exerciciostruct.s: files/pratica/exerciciostruct.c.s
-.PHONY : files/pratica/exerciciostruct.s
+files/pratica/ExercicioStruct.s: files/pratica/ExercicioStruct.c.s
+.PHONY : files/pratica/ExercicioStruct.s
 
 # target to generate assembly for a file
-files/pratica/exerciciostruct.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.s
-.PHONY : files/pratica/exerciciostruct.c.s
+files/pratica/ExercicioStruct.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.s
+.PHONY : files/pratica/ExercicioStruct.c.s
 
-files/pratica/listaNet.o: files/pratica/listaNet.c.o
-.PHONY : files/pratica/listaNet.o
+files/pratica/Fibo.o: files/pratica/Fibo.c.o
+.PHONY : files/pratica/Fibo.o
 
 # target to build an object file
-files/pratica/listaNet.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/listaNet.c.o
-.PHONY : files/pratica/listaNet.c.o
+files/pratica/Fibo.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Fibo.c.o
+.PHONY : files/pratica/Fibo.c.o
 
-files/pratica/listaNet.i: files/pratica/listaNet.c.i
-.PHONY : files/pratica/listaNet.i
+files/pratica/Fibo.i: files/pratica/Fibo.c.i
+.PHONY : files/pratica/Fibo.i
 
 # target to preprocess a source file
-files/pratica/listaNet.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/listaNet.c.i
-.PHONY : files/pratica/listaNet.c.i
+files/pratica/Fibo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Fibo.c.i
+.PHONY : files/pratica/Fibo.c.i
 
-files/pratica/listaNet.s: files/pratica/listaNet.c.s
-.PHONY : files/pratica/listaNet.s
+files/pratica/Fibo.s: files/pratica/Fibo.c.s
+.PHONY : files/pratica/Fibo.s
 
 # target to generate assembly for a file
-files/pratica/listaNet.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/listaNet.c.s
-.PHONY : files/pratica/listaNet.c.s
+files/pratica/Fibo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Fibo.c.s
+.PHONY : files/pratica/Fibo.c.s
 
-files/pratica/recursive.o: files/pratica/recursive.c.o
-.PHONY : files/pratica/recursive.o
+files/pratica/FiboRecursive.o: files/pratica/FiboRecursive.c.o
+.PHONY : files/pratica/FiboRecursive.o
 
 # target to build an object file
-files/pratica/recursive.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/recursive.c.o
-.PHONY : files/pratica/recursive.c.o
+files/pratica/FiboRecursive.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o
+.PHONY : files/pratica/FiboRecursive.c.o
 
-files/pratica/recursive.i: files/pratica/recursive.c.i
-.PHONY : files/pratica/recursive.i
+files/pratica/FiboRecursive.i: files/pratica/FiboRecursive.c.i
+.PHONY : files/pratica/FiboRecursive.i
 
 # target to preprocess a source file
-files/pratica/recursive.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/recursive.c.i
-.PHONY : files/pratica/recursive.c.i
+files/pratica/FiboRecursive.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.i
+.PHONY : files/pratica/FiboRecursive.c.i
 
-files/pratica/recursive.s: files/pratica/recursive.c.s
-.PHONY : files/pratica/recursive.s
+files/pratica/FiboRecursive.s: files/pratica/FiboRecursive.c.s
+.PHONY : files/pratica/FiboRecursive.s
 
 # target to generate assembly for a file
-files/pratica/recursive.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/recursive.c.s
-.PHONY : files/pratica/recursive.c.s
+files/pratica/FiboRecursive.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.s
+.PHONY : files/pratica/FiboRecursive.c.s
 
-files/pratica/struct.o: files/pratica/struct.c.o
-.PHONY : files/pratica/struct.o
+files/pratica/ListaNet.o: files/pratica/ListaNet.c.o
+.PHONY : files/pratica/ListaNet.o
 
 # target to build an object file
-files/pratica/struct.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/struct.c.o
-.PHONY : files/pratica/struct.c.o
+files/pratica/ListaNet.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o
+.PHONY : files/pratica/ListaNet.c.o
 
-files/pratica/struct.i: files/pratica/struct.c.i
-.PHONY : files/pratica/struct.i
+files/pratica/ListaNet.i: files/pratica/ListaNet.c.i
+.PHONY : files/pratica/ListaNet.i
 
 # target to preprocess a source file
-files/pratica/struct.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/struct.c.i
-.PHONY : files/pratica/struct.c.i
+files/pratica/ListaNet.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ListaNet.c.i
+.PHONY : files/pratica/ListaNet.c.i
 
-files/pratica/struct.s: files/pratica/struct.c.s
-.PHONY : files/pratica/struct.s
+files/pratica/ListaNet.s: files/pratica/ListaNet.c.s
+.PHONY : files/pratica/ListaNet.s
 
 # target to generate assembly for a file
-files/pratica/struct.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/struct.c.s
-.PHONY : files/pratica/struct.c.s
+files/pratica/ListaNet.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/ListaNet.c.s
+.PHONY : files/pratica/ListaNet.c.s
+
+files/pratica/Recursive.o: files/pratica/Recursive.c.o
+.PHONY : files/pratica/Recursive.o
+
+# target to build an object file
+files/pratica/Recursive.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Recursive.c.o
+.PHONY : files/pratica/Recursive.c.o
+
+files/pratica/Recursive.i: files/pratica/Recursive.c.i
+.PHONY : files/pratica/Recursive.i
+
+# target to preprocess a source file
+files/pratica/Recursive.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Recursive.c.i
+.PHONY : files/pratica/Recursive.c.i
+
+files/pratica/Recursive.s: files/pratica/Recursive.c.s
+.PHONY : files/pratica/Recursive.s
+
+# target to generate assembly for a file
+files/pratica/Recursive.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Recursive.c.s
+.PHONY : files/pratica/Recursive.c.s
+
+files/pratica/Struct.o: files/pratica/Struct.c.o
+.PHONY : files/pratica/Struct.o
+
+# target to build an object file
+files/pratica/Struct.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Struct.c.o
+.PHONY : files/pratica/Struct.c.o
+
+files/pratica/Struct.i: files/pratica/Struct.c.i
+.PHONY : files/pratica/Struct.i
+
+# target to preprocess a source file
+files/pratica/Struct.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Struct.c.i
+.PHONY : files/pratica/Struct.c.i
+
+files/pratica/Struct.s: files/pratica/Struct.c.s
+.PHONY : files/pratica/Struct.s
+
+# target to generate assembly for a file
+files/pratica/Struct.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lista01.dir/build.make CMakeFiles/lista01.dir/files/pratica/Struct.c.s
+.PHONY : files/pratica/Struct.c.s
 
 main.o: main.c.o
 .PHONY : main.o
@@ -285,18 +333,24 @@ help:
 	@echo "... files/pratica/Estacionamento.o"
 	@echo "... files/pratica/Estacionamento.i"
 	@echo "... files/pratica/Estacionamento.s"
-	@echo "... files/pratica/exerciciostruct.o"
-	@echo "... files/pratica/exerciciostruct.i"
-	@echo "... files/pratica/exerciciostruct.s"
-	@echo "... files/pratica/listaNet.o"
-	@echo "... files/pratica/listaNet.i"
-	@echo "... files/pratica/listaNet.s"
-	@echo "... files/pratica/recursive.o"
-	@echo "... files/pratica/recursive.i"
-	@echo "... files/pratica/recursive.s"
-	@echo "... files/pratica/struct.o"
-	@echo "... files/pratica/struct.i"
-	@echo "... files/pratica/struct.s"
+	@echo "... files/pratica/ExercicioStruct.o"
+	@echo "... files/pratica/ExercicioStruct.i"
+	@echo "... files/pratica/ExercicioStruct.s"
+	@echo "... files/pratica/Fibo.o"
+	@echo "... files/pratica/Fibo.i"
+	@echo "... files/pratica/Fibo.s"
+	@echo "... files/pratica/FiboRecursive.o"
+	@echo "... files/pratica/FiboRecursive.i"
+	@echo "... files/pratica/FiboRecursive.s"
+	@echo "... files/pratica/ListaNet.o"
+	@echo "... files/pratica/ListaNet.i"
+	@echo "... files/pratica/ListaNet.s"
+	@echo "... files/pratica/Recursive.o"
+	@echo "... files/pratica/Recursive.i"
+	@echo "... files/pratica/Recursive.s"
+	@echo "... files/pratica/Struct.o"
+	@echo "... files/pratica/Struct.i"
+	@echo "... files/pratica/Struct.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -83,61 +83,61 @@ CMakeFiles/lista01.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/main.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/main.c -o CMakeFiles/lista01.dir/main.c.s
 
-CMakeFiles/lista01.dir/files/pratica/recursive.c.o: CMakeFiles/lista01.dir/flags.make
-CMakeFiles/lista01.dir/files/pratica/recursive.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c
-CMakeFiles/lista01.dir/files/pratica/recursive.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lista01.dir/files/pratica/recursive.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/recursive.c.o -MF CMakeFiles/lista01.dir/files/pratica/recursive.c.o.d -o CMakeFiles/lista01.dir/files/pratica/recursive.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c
+CMakeFiles/lista01.dir/files/pratica/Recursive.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/Recursive.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/Recursive.c
+CMakeFiles/lista01.dir/files/pratica/Recursive.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/lista01.dir/files/pratica/Recursive.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/Recursive.c.o -MF CMakeFiles/lista01.dir/files/pratica/Recursive.c.o.d -o CMakeFiles/lista01.dir/files/pratica/Recursive.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/Recursive.c
 
-CMakeFiles/lista01.dir/files/pratica/recursive.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/recursive.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c > CMakeFiles/lista01.dir/files/pratica/recursive.c.i
+CMakeFiles/lista01.dir/files/pratica/Recursive.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/Recursive.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/Recursive.c > CMakeFiles/lista01.dir/files/pratica/Recursive.c.i
 
-CMakeFiles/lista01.dir/files/pratica/recursive.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/recursive.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c -o CMakeFiles/lista01.dir/files/pratica/recursive.c.s
+CMakeFiles/lista01.dir/files/pratica/Recursive.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/Recursive.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/Recursive.c -o CMakeFiles/lista01.dir/files/pratica/Recursive.c.s
 
-CMakeFiles/lista01.dir/files/pratica/struct.c.o: CMakeFiles/lista01.dir/flags.make
-CMakeFiles/lista01.dir/files/pratica/struct.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/struct.c
-CMakeFiles/lista01.dir/files/pratica/struct.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/lista01.dir/files/pratica/struct.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/struct.c.o -MF CMakeFiles/lista01.dir/files/pratica/struct.c.o.d -o CMakeFiles/lista01.dir/files/pratica/struct.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/struct.c
+CMakeFiles/lista01.dir/files/pratica/Struct.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/Struct.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/Struct.c
+CMakeFiles/lista01.dir/files/pratica/Struct.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/lista01.dir/files/pratica/Struct.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/Struct.c.o -MF CMakeFiles/lista01.dir/files/pratica/Struct.c.o.d -o CMakeFiles/lista01.dir/files/pratica/Struct.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/Struct.c
 
-CMakeFiles/lista01.dir/files/pratica/struct.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/struct.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/struct.c > CMakeFiles/lista01.dir/files/pratica/struct.c.i
+CMakeFiles/lista01.dir/files/pratica/Struct.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/Struct.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/Struct.c > CMakeFiles/lista01.dir/files/pratica/Struct.c.i
 
-CMakeFiles/lista01.dir/files/pratica/struct.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/struct.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/struct.c -o CMakeFiles/lista01.dir/files/pratica/struct.c.s
+CMakeFiles/lista01.dir/files/pratica/Struct.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/Struct.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/Struct.c -o CMakeFiles/lista01.dir/files/pratica/Struct.c.s
 
-CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o: CMakeFiles/lista01.dir/flags.make
-CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c
-CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o -MF CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o.d -o CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c
+CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/ExercicioStruct.c
+CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o -MF CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o.d -o CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/ExercicioStruct.c
 
-CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c > CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.i
+CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/ExercicioStruct.c > CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.i
 
-CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c -o CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.s
+CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/ExercicioStruct.c -o CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.s
 
-CMakeFiles/lista01.dir/files/pratica/listaNet.c.o: CMakeFiles/lista01.dir/flags.make
-CMakeFiles/lista01.dir/files/pratica/listaNet.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c
-CMakeFiles/lista01.dir/files/pratica/listaNet.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/lista01.dir/files/pratica/listaNet.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/listaNet.c.o -MF CMakeFiles/lista01.dir/files/pratica/listaNet.c.o.d -o CMakeFiles/lista01.dir/files/pratica/listaNet.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c
+CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/ListaNet.c
+CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o -MF CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o.d -o CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/ListaNet.c
 
-CMakeFiles/lista01.dir/files/pratica/listaNet.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/listaNet.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c > CMakeFiles/lista01.dir/files/pratica/listaNet.c.i
+CMakeFiles/lista01.dir/files/pratica/ListaNet.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/ListaNet.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/ListaNet.c > CMakeFiles/lista01.dir/files/pratica/ListaNet.c.i
 
-CMakeFiles/lista01.dir/files/pratica/listaNet.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/listaNet.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c -o CMakeFiles/lista01.dir/files/pratica/listaNet.c.s
+CMakeFiles/lista01.dir/files/pratica/ListaNet.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/ListaNet.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/ListaNet.c -o CMakeFiles/lista01.dir/files/pratica/ListaNet.c.s
 
 CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o: CMakeFiles/lista01.dir/flags.make
 CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/Estacionamento.c
@@ -153,27 +153,59 @@ CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/Estacionamento.c -o CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.s
 
+CMakeFiles/lista01.dir/files/pratica/Fibo.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/Fibo.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/Fibo.c
+CMakeFiles/lista01.dir/files/pratica/Fibo.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/lista01.dir/files/pratica/Fibo.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/Fibo.c.o -MF CMakeFiles/lista01.dir/files/pratica/Fibo.c.o.d -o CMakeFiles/lista01.dir/files/pratica/Fibo.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/Fibo.c
+
+CMakeFiles/lista01.dir/files/pratica/Fibo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/Fibo.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/Fibo.c > CMakeFiles/lista01.dir/files/pratica/Fibo.c.i
+
+CMakeFiles/lista01.dir/files/pratica/Fibo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/Fibo.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/Fibo.c -o CMakeFiles/lista01.dir/files/pratica/Fibo.c.s
+
+CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o: CMakeFiles/lista01.dir/flags.make
+CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o: /home/alvaro/github/estrutura-de-dados/files/pratica/FiboRecursive.c
+CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o: CMakeFiles/lista01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o -MF CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o.d -o CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o -c /home/alvaro/github/estrutura-de-dados/files/pratica/FiboRecursive.c
+
+CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/alvaro/github/estrutura-de-dados/files/pratica/FiboRecursive.c > CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.i
+
+CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/alvaro/github/estrutura-de-dados/files/pratica/FiboRecursive.c -o CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.s
+
 # Object files for target lista01
 lista01_OBJECTS = \
 "CMakeFiles/lista01.dir/main.c.o" \
-"CMakeFiles/lista01.dir/files/pratica/recursive.c.o" \
-"CMakeFiles/lista01.dir/files/pratica/struct.c.o" \
-"CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o" \
-"CMakeFiles/lista01.dir/files/pratica/listaNet.c.o" \
-"CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o"
+"CMakeFiles/lista01.dir/files/pratica/Recursive.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/Struct.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/Fibo.c.o" \
+"CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o"
 
 # External object files for target lista01
 lista01_EXTERNAL_OBJECTS =
 
 lista01: CMakeFiles/lista01.dir/main.c.o
-lista01: CMakeFiles/lista01.dir/files/pratica/recursive.c.o
-lista01: CMakeFiles/lista01.dir/files/pratica/struct.c.o
-lista01: CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o
-lista01: CMakeFiles/lista01.dir/files/pratica/listaNet.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/Recursive.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/Struct.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o
 lista01: CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/Fibo.c.o
+lista01: CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o
 lista01: CMakeFiles/lista01.dir/build.make
 lista01: CMakeFiles/lista01.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable lista01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/alvaro/github/estrutura-de-dados/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable lista01"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lista01.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

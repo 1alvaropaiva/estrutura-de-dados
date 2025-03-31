@@ -9,10 +9,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/alvaro/github/estrutura-de-dados/files/pratica/Estacionamento.c" "CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/Estacionamento.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/pratica/exerciciostruct.c" "CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/exerciciostruct.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/pratica/listaNet.c" "CMakeFiles/lista01.dir/files/pratica/listaNet.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/listaNet.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/pratica/recursive.c" "CMakeFiles/lista01.dir/files/pratica/recursive.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/recursive.c.o.d"
-  "/home/alvaro/github/estrutura-de-dados/files/pratica/struct.c" "CMakeFiles/lista01.dir/files/pratica/struct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/struct.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/ExercicioStruct.c" "CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/ExercicioStruct.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/Fibo.c" "CMakeFiles/lista01.dir/files/pratica/Fibo.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/Fibo.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/FiboRecursive.c" "CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/FiboRecursive.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/ListaNet.c" "CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/ListaNet.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/Recursive.c" "CMakeFiles/lista01.dir/files/pratica/Recursive.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/Recursive.c.o.d"
+  "/home/alvaro/github/estrutura-de-dados/files/pratica/Struct.c" "CMakeFiles/lista01.dir/files/pratica/Struct.c.o" "gcc" "CMakeFiles/lista01.dir/files/pratica/Struct.c.o.d"
   "/home/alvaro/github/estrutura-de-dados/main.c" "CMakeFiles/lista01.dir/main.c.o" "gcc" "CMakeFiles/lista01.dir/main.c.o.d"
   )
 

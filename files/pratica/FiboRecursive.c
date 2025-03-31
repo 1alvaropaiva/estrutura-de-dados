@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//funcao para calcular Fibonacci (recursivo)
 int fibonacci(int n) {
     // Casos base
     if (n == 0) return 0;

@@ -8,11 +8,15 @@ typedef struct Carro {
     int numeroVaga;
     struct Carro *Proximo;
 } Carro;
+
 void limparBuffer() {
+    //função pra tirar \n após o fgets
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
 }
+
 Carro *primeiro, *atual, *novoCarro;
+
 void GetCarro() {
     novoCarro = (Carro*)malloc(sizeof(Carro));
     if (primeiro == NULL) {
@@ -38,6 +42,7 @@ void GetCarro() {
     limparBuffer();
     novoCarro->Proximo = NULL;
 }
+
 void PrintCarro() {
     atual = primeiro;
     while (atual != NULL) {
@@ -49,7 +54,9 @@ void PrintCarro() {
         atual = atual->Proximo;
     }
 }
+
 void LiberarMemoria() {
+    //função para liberar memória
     Carro *atual = primeiro;
     while (atual != NULL) {
         Carro *proximo = atual->Proximo;
@@ -57,6 +64,7 @@ void LiberarMemoria() {
         atual = proximo;
     }
 }
+
 int main() {
     char ch;
     primeiro = (Carro *) NULL;

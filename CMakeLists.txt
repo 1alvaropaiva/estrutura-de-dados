@@ -9,4 +9,6 @@ add_executable(lista01 main.c
         files/pratica/ExercicioStruct.c
         files/pratica/ListaNet.c
         files/pratica/Estacionamento.c
+        files/pratica/Fibo.c
+        files/pratica/FiboRecursive.c
 )
