@@ -2,7 +2,6 @@
 // Created by alvaro on 31/03/25.
 //
 #include <stdio.h>
-//função para calcular a série de Fibonacci
 void fibonacci(int n) {
     int primeiro = 0, segundo = 1, proximo, i;
 
